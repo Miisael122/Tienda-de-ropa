@@ -1,0 +1,631 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TiendaDeRopa
+</name>
+</assembly>
+<members>
+<member name="T:TiendaDeRopa.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TiendaDeRopa.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TiendaDeRopa.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.abonosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.categoriasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.clientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.cobrosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.compraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.detcompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.detofertaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.detpedidoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.detventaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.ofertaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.pagosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.pedidosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.productosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.proveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.ventasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECLIENTEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTEPROVEEDORDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTEVENTASCLIENTEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTEABONOCLIENTEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECOMPRAPROVEEDORDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECOMPRASPROVEEDORDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORPAGOSPROVEEDORESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORPAGOSPERIODODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTEPEDIDOSCLIENTEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTEPEDIDOSPERIODODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECOBROSCLIENTESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECOBROSPERIODODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECOMPRAPERIODODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.abonosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.categoriasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.clientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.cobrosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.compraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.detcompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.detofertaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.detpedidoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.detventaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.ofertaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.pagosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.pedidosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.productosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.proveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.ventasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECLIENTERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTEPROVEEDORRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTEVENTASCLIENTERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTEABONOCLIENTERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECOMPRAPROVEEDORRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECOMPRASPROVEEDORRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORPAGOSPROVEEDORESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORPAGOSPERIODORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTEPEDIDOSCLIENTERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTEPEDIDOSPERIODORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECOBROSCLIENTESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECOBROSPERIODORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECOMPRAPERIODORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.abonosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.categoriasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.clientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.cobrosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.compraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.detcompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.detofertaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.detpedidoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.detventaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.ofertaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.pagosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.pedidosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.productosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.proveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.ventasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECLIENTERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTEPROVEEDORRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTEVENTASCLIENTERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTEABONOCLIENTERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECOMPRAPROVEEDORRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECOMPRASPROVEEDORRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORPAGOSPROVEEDORESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORPAGOSPERIODORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTEPEDIDOSCLIENTERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTEPEDIDOSPERIODORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECOBROSCLIENTESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECOBROSPERIODORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSet.REPORTECOMPRAPERIODORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.abonosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.categoriasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.clientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.cobrosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.compraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.detcompraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.detofertaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.detpedidoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.detventaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.ofertaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.pagosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.pedidosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.productosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.proveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.ventasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.REPORTECLIENTETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.REPORTEPROVEEDORTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.REPORTEVENTASCLIENTETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.REPORTEABONOCLIENTETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.REPORTECOMPRAPROVEEDORTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.REPORTECOMPRASPROVEEDORTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.REPORPAGOSPROVEEDORESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.REPORPAGOSPERIODOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.REPORTEPEDIDOSCLIENTETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.REPORTEPEDIDOSPERIODOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.REPORTECOBROSCLIENTESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.REPORTECOBROSPERIODOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.REPORTECOMPRAPERIODOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(TiendaDeRopa.TiendaDeRopaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(TiendaDeRopa.TiendaDeRopaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(TiendaDeRopa.TiendaDeRopaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.TableAdapterManager.UpdateAll(TiendaDeRopa.TiendaDeRopaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TiendaDeRopa.TiendaDeRopaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
