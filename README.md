@@ -1,3 +1,6 @@
+<h1>Sistema de informacón para una tienda de ropa</h1>
+<p>Este es un sistema bastante basico, mas sin embargo cuenta con los catalogos, movimientos, consultas y reportes para poder llevar la administracion de una pequeña tienda de ropa.</p>
+
 <h1>Index</h1>
 <ol>
   <li><a href="#1">Menú principal</a></li>
@@ -5,8 +8,6 @@
   <li><a href="#3">Consulta</a></li>
 </ol>
 
-<h1>Sistema de informacón para una tienda de ropa</h1>
-<p>Este es un sistema bastante basico, mas sin embargo cuenta con los catalogos, movimientos, consultas y reportes para poder llevar la administracion de una pequeña tienda de ropa.</p>
 <h2>Pantallas</h2>
 <h4 id="1">Menú principal</h4>
 <p>Esta es la pantalla del menu principal donde puedes tener acceso a los diferentes modulos del sistemas de información.</p>
