@@ -1,1 +1,2 @@
-<h1>Hola</h1>
+<h1>Sistema de informacón para una tienda de ropa</h1>
+<p>nada</p>
