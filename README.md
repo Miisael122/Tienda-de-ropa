@@ -8,8 +8,9 @@
   <li><a href="#3">Consulta</a></li>
 </ol>
 
-<h2>Pantallas</h2>
-<h6><a href="#inicio">Inicio</a></h6> <h4 id="1">Menú principal</h4>
+<h2>Pantallas - <h6><a href="#inicio">Inicio</a></h6> </h2>
+
+<h4 id="1">Menú principal</h4>
 <p>Esta es la pantalla del menu principal donde puedes tener acceso a los diferentes modulos del sistemas de información.</p>
 <p>El menú se divide en 3 partes. Movimientos, catálogos y reportes, cada apartado cuenta con sus respectivas opciones que a su vez dichas opciones tambien cuentan con mas opciones.</p>
 
