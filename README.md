@@ -1,4 +1,4 @@
-<h1 id="inicio">Sistema de informacón para una tienda de ropa</h1>
+<h1>Sistema de informacón para una tienda de ropa</h1>
 <p>Este es un sistema bastante basico, mas sin embargo cuenta con los catalogos, movimientos, consultas y reportes para poder llevar la administracion de una pequeña tienda de ropa.</p>
 
 <h1>Index</h1>
@@ -8,8 +8,7 @@
   <li><a href="#3">Consulta</a></li>
 </ol>
 
-<h2>Pantallas - <h6><a href="#inicio">Inicio</a></h6> </h2>
-
+<h2>Pantallas</h2>
 <h4 id="1">Menú principal</h4>
 <p>Esta es la pantalla del menu principal donde puedes tener acceso a los diferentes modulos del sistemas de información.</p>
 <p>El menú se divide en 3 partes. Movimientos, catálogos y reportes, cada apartado cuenta con sus respectivas opciones que a su vez dichas opciones tambien cuentan con mas opciones.</p>
@@ -18,13 +17,11 @@
 
 
 <h4 id="2">Movimiento</h4>
-<h6><a href="#inicio">Inicio</a></h6>
 <p>Esta pantalla muestra el movimiento de las ventas, donde puedes realizar la venta de los articulos que con antirioridad se hayan dado de alta en el catálogo de articulos.Los demas movimientos son de manera similar y siguen la misma lógica.</p>
 
 ![Captura de pantalla 2024-09-14 103007](https://github.com/user-attachments/assets/08ad5827-a67d-4651-8f34-18374296d17f)
 
 <h4 id="3">Consulta</h4>
-<h6><a href="#inicio">Inicio</a></h6>
 <P>En la siguiente pantalla se muestra un ejemplo de como son las consultas, dependiendo de la consulta que se realice seran diferentes los parametros por los cuales se realicen dichas consultas. En este ejemplo se consulta por el id del pago y la información se muestra en el grid.</P>
 
 
